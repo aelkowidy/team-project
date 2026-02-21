@@ -1,1 +1,3 @@
 Project Ideas:\n=========
+
+- Ahmed: Build a weather app using an API
