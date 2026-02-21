@@ -1,3 +1,10 @@
 Project Ideas:\n=========
 -Hassan: creat new bransh and edit files 
 -maisson ahmed:gameing
+
+
+
+
+- nazir: Build a weather app using an API
+----------------------------------------- 
+maisson ahmed:gameing
